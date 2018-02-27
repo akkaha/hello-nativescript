@@ -17,7 +17,8 @@
                 "./node_modules/tns-core-modules/*",
                 "./node_modules/*"
             ]
-        }
+        },
+        "outDir": "app/build"
     },
     "exclude": [
         "node_modules",
